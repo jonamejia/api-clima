@@ -2,7 +2,7 @@ const container = document.querySelector('.container');
 const resultado = document.querySelector('#resultado');
 const formulario = document.querySelector('#formulario');
 
-const appId = '9c606a1731e5d14a33c69e9c7abb0702';
+const appId = 'Tu api key aqui';
 
 window.addEventListener('load', () => {
     formulario.addEventListener('submit', buscarClima);
